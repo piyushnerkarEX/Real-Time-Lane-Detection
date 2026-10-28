@@ -1,0 +1,13 @@
+
+# Local Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated videos and results
+lines.avi
+lines.mp4
+yolov5/runs/
+
+# Extracted Python source directory
+Python-3.11.18/
